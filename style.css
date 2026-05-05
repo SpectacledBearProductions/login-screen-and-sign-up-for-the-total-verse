@@ -1,0 +1,18 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  background-color: lightpink;
+}
+.centerp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  font-size: 300%;
+}
+.bigger_buttons_and_boxes{
+size: 300%;
+}
